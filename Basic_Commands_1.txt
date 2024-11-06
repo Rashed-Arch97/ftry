@@ -10,4 +10,4 @@ git push origin main : upload to main
 
 git log
 
-git checkout : restore prev version
+git checkout "hash from prev version" : restore prev version

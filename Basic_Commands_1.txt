@@ -9,3 +9,5 @@ git commit -m "comment name" : package
 git push origin main : upload to main
 
 git log
+
+git checkout : restore prev version

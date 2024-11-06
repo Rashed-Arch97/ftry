@@ -1,0 +1,11 @@
+git status
+
+git add "name of file"
+
+git diff "name of file" : to update the file
+
+git commit -m "comment name" : package
+
+git push origin main : upload to main
+
+git log
